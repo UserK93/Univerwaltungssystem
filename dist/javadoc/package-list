@@ -1,0 +1,6 @@
+se.uniis.datenhaltung.db.entities
+se.uniis.datenhaltung.db.impl
+se.uniis.datenhaltung.db.services
+se.uniis.fachlogik.grenzklassen
+se.uniis.fachlogik.univerwaltung.impl
+se.uniis.fachlogik.univerwaltung.services
